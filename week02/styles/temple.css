@@ -12,7 +12,7 @@ header,
 footer {
     background-color: #333;
     color: #fff;
-    oadding: 10px;
+    padding: 10px;
     text-align: center;
     font-size: 1.5rem;
 }
@@ -51,7 +51,6 @@ section p {
 
 ul {
     margin: 10px 20px;
-
 }
 
 footer {
