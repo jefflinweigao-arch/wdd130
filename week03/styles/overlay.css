@@ -16,6 +16,7 @@ h1 {
 }
 
 .herodiv {
+    position: relative;
     margin: 10px auto;
     /* If removed, what happens? */
 }
