@@ -7,8 +7,14 @@
 }
 
 header {
-    background-color: var(--primary-color);
-    color: var(--accent2-color);
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
 }
 
 * {
