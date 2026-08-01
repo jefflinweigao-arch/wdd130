@@ -138,8 +138,11 @@ fieldset label {
     font-weight: normal;
 }
 
-iframe {
-    border: none;
+.map iframe {
+    width: 100%;
+    max-width: 600px;
+    height: 450px;
+    border: 0;
 }
 
 button {
